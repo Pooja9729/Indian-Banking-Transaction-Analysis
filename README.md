@@ -8,25 +8,25 @@ This project analyzes Indian banking transaction data using Python and Power BI 
 The project converts raw banking data into meaningful business insights using interactive dashboards, charts, KPI cards, and visual analytics.
 
 # Objectives
- Analyze customer transaction behavior
+1.Analyze customer transaction behavior
 
 
- Monitor banking performance
+2.Monitor banking performance
 
 
-Identify high-value customers
+3.Identify high-value customers
 
 
-Study account balance and credit score patterns
+4.Study account balance and credit score patterns
 
 
-Perform state-wise banking analysis
+5.Perform state-wise banking analysis
 
 
-Understand loan and account type distribution
+6.Understand loan and account type distribution
 
 
-Create interactive business dashboards
+7.Create interactive business dashboards
 
 
 
@@ -34,16 +34,16 @@ Create interactive business dashboards
 # Python Libraries
 
 
-Pandas
+1.Pandas
 
 
-NumPy
+2.NumPy
 
 
-Matplotlib
+3.Matplotlib
 
 
-Seaborn
+4.Seaborn
 
 
 # Visualization Tool
