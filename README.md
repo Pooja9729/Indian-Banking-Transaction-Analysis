@@ -138,8 +138,9 @@ Cleaned categorical values
 
 
 # Dashboards Created
-1. Banking Transaction Analysis Dashboard
-2. <img width="960" height="504" alt="Screenshot 2026-05-10 160417" src="https://github.com/user-attachments/assets/d8ae9772-8b98-4b66-8475-04b259df5284" />
+# 1. Banking Transaction Analysis Dashboard
+ <img width="707" height="336" alt="Screenshot 2026-05-10 160417" src="https://github.com/user-attachments/assets/67b5ff65-f1bb-4ddf-8d8d-093f1194f9b0" />
+
 
 Includes:
 
@@ -168,7 +169,9 @@ Transaction Status Analysis
 Purpose:
 Analyzes overall banking transaction performance and customer activity.
 
-2. Customer Financial Behavior Dashboard
+# 2. Customer Financial Behavior Dashboard
+<img width="705" height="334" alt="Screenshot 2026-05-10 160504" src="https://github.com/user-attachments/assets/5129cb69-d55c-45c8-8df2-ab7590a18d2e" />
+
 Includes:
 
 
@@ -190,7 +193,7 @@ Account Type Distribution
 Transaction Amount by Account Type
 
 
-Purpose:
+# Purpose:
 Analyzes customer financial behavior and account performance.
 
 Key Insights
@@ -218,7 +221,7 @@ Certain states contribute more banking activity.
 
 
 
-Business Benefits
+# Business Benefits
 This project helps banks and financial organizations to:
 
 
@@ -241,5 +244,5 @@ Support business decision-making
 
 
 
-Final Conclusion
+# Final Conclusion
 The Indian Banking Transaction Analysis project provides a complete visual and analytical understanding of banking operations and customer financial behavior. Using Power BI dashboards and Python-based data analysis, the project transforms raw banking data into actionable business insights for smarter financial decision-making.
