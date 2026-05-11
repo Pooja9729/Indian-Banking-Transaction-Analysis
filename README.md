@@ -1,17 +1,17 @@
 # Indian-Banking-Transaction-Analysis
 Project Title
-Indian Banking Transaction Analysis using Power BI
-Project Overview
+# Indian Banking Transaction Analysis using Power BI
+# Project Overview
 
 This project analyzes Indian banking transaction data using Python and Power BI to understand customer financial behavior, transaction trends, account performance, and banking operations.
 
 The project converts raw banking data into meaningful business insights using interactive dashboards, charts, KPI cards, and visual analytics.
 
-Objectives
-Analyze customer transaction behavior
+# Objectives
+ Analyze customer transaction behavior
 
 
-Monitor banking performance
+ Monitor banking performance
 
 
 Identify high-value customers
