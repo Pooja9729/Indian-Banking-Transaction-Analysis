@@ -142,7 +142,7 @@ Cleaned categorical values
  <img width="707" height="336" alt="Screenshot 2026-05-10 160417" src="https://github.com/user-attachments/assets/67b5ff65-f1bb-4ddf-8d8d-093f1194f9b0" />
 
 
-Includes:
+# Includes:
 
 
 KPI Cards
@@ -166,7 +166,7 @@ Top Customers
 Transaction Status Analysis
 
 
-Purpose:
+# Purpose:
 Analyzes overall banking transaction performance and customer activity.
 
 # 2. Customer Financial Behavior Dashboard
@@ -196,7 +196,7 @@ Transaction Amount by Account Type
 # Purpose:
 Analyzes customer financial behavior and account performance.
 
-Key Insights
+# Key Insights
 
 
 Debit transactions are higher than credit transactions.
