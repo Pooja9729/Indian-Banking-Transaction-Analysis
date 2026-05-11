@@ -30,8 +30,8 @@ Create interactive business dashboards
 
 
 
-Technologies Used
-Python Libraries
+# Technologies Used
+# Python Libraries
 
 
 Pandas
@@ -46,13 +46,13 @@ Matplotlib
 Seaborn
 
 
-Visualization Tool
+# Visualization Tool
 
 
 Power BI
 
 
-Data Processing
+# Data Processing
 
 
 Python Data Cleaning
@@ -65,7 +65,7 @@ Feature Engineering
 
 
 
-Dataset Features
+# Dataset Features
 The dataset contains banking-related information such as:
 
 
@@ -112,7 +112,7 @@ transaction_status
 
 
 
-Data Preprocessing Steps
+# Data Preprocessing Steps
 
 
 Handled missing values
@@ -137,8 +137,10 @@ Cleaned categorical values
 
 
 
-Dashboards Created
+# Dashboards Created
 1. Banking Transaction Analysis Dashboard
+2. <img width="960" height="504" alt="Screenshot 2026-05-10 160417" src="https://github.com/user-attachments/assets/d8ae9772-8b98-4b66-8475-04b259df5284" />
+
 Includes:
 
 
